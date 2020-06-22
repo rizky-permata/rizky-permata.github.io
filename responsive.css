@@ -12,6 +12,9 @@
     width: 50%;
     margin-bottom: 50px;
   }
+  
+  .menu-icon {
+    display: none;
 }
 
 /* Untuk Smartphone */
