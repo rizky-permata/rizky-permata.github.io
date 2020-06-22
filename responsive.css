@@ -1,9 +1,3 @@
-/* Untuk PC */
-@media all and (max-width: 1200px) {
-  .menu-icon {
-    display: none;
-  }
-
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
   .top-wrapper h1 {
