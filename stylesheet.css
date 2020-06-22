@@ -23,6 +23,24 @@ a {
   clear: left;
 }
 
+.animasi {
+  font-size: 25px;
+  width: 100%;
+  white-space:nowrap;
+  overflow:hidden;
+  -webkit-animation: typing 5s steps(70, end);
+  animation: animasi 5s steps(70, end);
+}
+
+@keyframes animasi {
+  from { width: 0; }
+}
+
+@-webkit-keyframes animasi {
+  from { width: 0; }
+}
+
+
 .container {
   max-width: 1170px;
   padding: 0 15px;
@@ -212,5 +230,5 @@ footer {
   background-color: #f6f2f2;
 }
 
-/* Ketik code Anda dibawah */
+
 
