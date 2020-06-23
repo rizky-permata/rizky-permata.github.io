@@ -237,6 +237,10 @@ footer img {
   width: 125px;
 }
 
+.footer-list {
+  float: right;
+}
+
 footer p {
   color: #16a085;
   font-size: 12px;
